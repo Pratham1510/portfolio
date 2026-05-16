@@ -114,19 +114,3 @@ Based on the findings, three retention levers were identified for HR leadership:
 | seaborn | Gender distribution countplots |
 
 ---
-
-## Running the Project
-
-```bash
-# Install dependencies
-pip install pandas numpy matplotlib seaborn openpyxl
-
-# Run the analysis (generates all charts)
-python attrition-analysis.py
-```
-
----
-
-## License
-
-MIT
